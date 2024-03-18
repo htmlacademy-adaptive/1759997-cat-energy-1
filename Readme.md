@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Lyudmila Feldman](https://up.htmlacademy.ru/adaptive-individual/1/user/1759997).
-* Наставник: `Неизвестно`.
+* Наставник: Дмитрий Осадченко.
 
 ---
 
